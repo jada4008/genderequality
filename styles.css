@@ -1,0 +1,48 @@
+h1 {
+  color: #4ae881;
+  font-family: 'Georgia';
+}
+p1{
+  color: #626363;
+  padding-left: 10%;
+  padding-right: 10%;
+  font-family: 'Lobster', cursive;
+
+}
+p2{
+  color:#ffffff;
+  padding-left: 10%;
+  padding-right: 10%;
+font-family: 'Reenie Beanie', cursive;
+  font-size: 150%;
+}
+
+.nav-wrapper {
+  background-color: #4ae881;
+}
+.page-footer{
+  background-color: #4ae881;
+}
+.container{
+  background-color: #4ae881;
+}
+.footer-copyright{
+  background-color: #4ae881;
+}
+.row{
+  background-color: #4ae881;
+}
+
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    padding:0;
+    margin:0;
+
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+      
