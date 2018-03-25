@@ -1,0 +1,38 @@
+
+body{
+  color: #ffffff;
+  font-family: 'Titillium Web', sans-serif; 
+  background-image: url("https://media.giphy.com/media/VPh17XcezpIpq/giphy.gif");
+
+}
+
+h1{
+  color: #ff63d8;
+    font-family : 'Pacifico', cursive;}
+h2{
+  font-family: Impact, Charcoal, sans-serif;
+  color: #f9b2ff;
+}
+
+
+.nav-wrapper {
+  background-image : url("https://media.giphy.com/media/OVlFjmEDhx9rG/giphy.gif");
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+ body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    padding: 0;
+    margin:0;
+
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+.page-footer{
+  background-image : url("https://media.giphy.com/media/OVlFjmEDhx9rG/giphy.gif");
+}

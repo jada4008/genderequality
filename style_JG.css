@@ -1,0 +1,61 @@
+h1 {
+  color: #de40f9;
+  font-family: 'Georgia';
+}
+
+p{
+  color: #000000;
+  font-size:25px;
+}
+
+.nav-wrapper {
+  background-color: #de40f9;
+}
+
+li {
+ font-size: 30px; 
+}
+
+.carousel-inner .item {
+  height: 400px;  /* add this */
+  
+}
+
+
+.carousel-inner   {
+  height: 600px;  /* add this */
+  
+} 
+
+.page-footer2 {
+  background-color: #de40f9;
+}
+
+
+ body {
+   display: flex;
+  min-height: 100vh;
+    flex-direction: column;
+    padding:0;
+    margin:0;
+
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+
+.carousel-caption p {
+  color: #ed65e1
+}
+
+
+.carousel-caption h3 {
+  color: #ed65e1
+}
+
+#footer-p {
+  font-size: 14px;
+}
+
